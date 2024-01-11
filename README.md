@@ -19,7 +19,7 @@
   <a href="mailto:tarunsanjayrao@gmail.com">
     <img height="32" src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" alt="Tarun | Mail">
   </a>&nbsp;&nbsp;
-  <a href="https://discordapp.com>
+  <a href="https://discordapp.com/users/1062252068603170817>
     <img height="33" src="https://user-images.githubusercontent.com/29790345/184599637-8ba21112-adc2-400a-8931-b071b74fb2a7.png?raw=true" alt="Tarun | Discord" >
   </a>&nbsp;&nbsp;
 </p>
